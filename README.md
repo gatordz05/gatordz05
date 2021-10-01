@@ -8,5 +8,9 @@
 - 🌱 I’m currently learning Software Development
 - 👯 I’m looking to collaborate on Startups
 - 💬 Ask me about Financial Education
-- 📫 How to reach me: In twitter as @gatordz05; in facebook as gatordz05; wapp +573206775915
+- 📫 How to find me: 
+    - [Twitter](https://twitter.com/@gatordz05)
+    - [Facebook](https://facebook.com/gatordz05)
+    - [YouTube](https://www.youtube.com/channel/UCCAS8G1qCjt5dSlSDCx-dtg)
+    - [Linkedin](https://www.linkedin.com/in/german-antonio-torres-avila-16925296/)
 
